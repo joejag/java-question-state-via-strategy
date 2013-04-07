@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# intellij
+out
+target
+.idea/workspace.xml
